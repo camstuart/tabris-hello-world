@@ -1,5 +1,5 @@
 {
-  "name": "tabris-hello-world",
+  "name": "camstuartdev.tabris.helloworld",
   "version": "0.1.0",
   "main": "dist/app.js",
   "private": true,
