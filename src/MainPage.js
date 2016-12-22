@@ -5,7 +5,7 @@ export default class MainPage extends Page {
   constructor() {
     super({
       topLevel: true,
-      title: 'Cam\'s App'
+      title: "Cam's App"
     });
     this._createUI();
   }
